@@ -1,3 +1,5 @@
+// FIXED COSTS
+
 // Vehicles
 
 function vehiclesShipped(numberOfVehicles, shippingCost) {
@@ -84,6 +86,3 @@ function rentalDeposit(depositAmount){
 function peopleFlying(numberOfPeople, pricePerTicket, totalMiscCosts) {
   return numberOfPeople * pricePerTicket + totalMiscCosts;
 }
-
-car insurance
-new stuff (number of rooms * price per room)
